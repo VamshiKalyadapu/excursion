@@ -4,6 +4,7 @@ body{
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+    /* Headers */
 .header1
 {
     font-weight: normal;
@@ -16,13 +17,19 @@ body{
     font-weight: 300;
     color: white;
 }
+.sub-header{
+    font-size: 21px;
+    color: grey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+    /* Links */
 .link1
 {
     font-size: 16px;
     color: aquamarine;
 }
-.sub-header{
-    font-size: 21px;
+    /* Footer */
+.last-line{
+    text-align: right;
     color: grey;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
